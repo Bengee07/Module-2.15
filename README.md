@@ -10,10 +10,11 @@ Refer to the following markdown file for the respective sections of the class:
 ## Lesson Objectives
 
 Learners will understand:
-- Insert the knowledge to be acquired
+- What is Operational Excellence in Cloud Architecture
+- How to build well Operational Excellence application on cloud
 
 Learners will be able to:
-- Insert the skillset to be acquired
+- apply Operational Excellence to the solutions that you have
 
 
 ## Lesson Plan
@@ -22,11 +23,11 @@ Learners will be able to:
 |--------|-----|-------|
 |- 5mins |Start zoom session|So that students can join early and start class on time|
 |10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
+|30 mins|Conceptual Knowledge| Operational Excellence Principles|
+|20 mins|Conceptual Knowledge| Best Practices for Operational Excellence|
 ||**1 HR MARK**|
 |5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
+|40 mins|Conceptual Knowledge| Best Practice for Operational Excellence (continue)|
 |5 mins|Buffer|In case of overrun|
 |5 mins|Break||
 |5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
