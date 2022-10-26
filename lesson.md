@@ -2,7 +2,11 @@
 
 ### Preparation
 
-Write about any preparations needed for the lesson, such as tools, installations, prior-knowledge, etcs.
+### Self Study Check in
+
+Q1: Which will you choose, small & frequent changes or big less often changes?
+
+Q2: How will you anticipate failure?
 
 ### Lesson Overview
 
