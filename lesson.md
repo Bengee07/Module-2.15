@@ -24,6 +24,28 @@ There are five design principles for operational excellence in the cloud:
 - **Anticipate failure**: Perform “pre-mortem” exercises to identify potential sources of failure so that they can be removed or mitigated. Test your failure scenarios and validate your understanding of their impact. Test your response procedures to ensure that they are effective, and that teams are familiar with their execution. Set up regular game days to test workloads and team responses to simulated events.
 - **Learn from all operational failures**: Drive improvement through lessons learned from all operational events and failures. Share what is learned across teams and through the entire organization.
 
+
+
+## Activity - Understanding Operational Excellence
+
+Based on this module, there are few items mentioned:
+- Perform operations as code
+- Make frequent, small, reversible changes
+- Refine operations procedures frequently
+- Anticipate failure
+- Learn from all operational failures
+
+In this activity, gather into your own group and each group should take on one or two research problem. Ensure all research problems are taken and presented by the end of this section.
+
+
+|Research Topic|Answer|
+|----------------|------|
+|Perform operations as code|*Make few key activities and explain them*|
+|Make frequent, small, reversible changes|*Make few key activities and explain them*|
+|Refine operations procedures frequently|*Make few key activities and explain them*|
+|Anticipate failure|*Make few key activities and explain them*|
+|Learn from all operational failures|*Make few key activities and explain them*|
+
 ---
 
 ## Part 2 - Best Practice for Operational Excellence
