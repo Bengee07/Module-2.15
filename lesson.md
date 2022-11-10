@@ -16,6 +16,10 @@ This module focuses on the operational excellence pillar and how to apply it as 
 
 ## Part 1 - Operational Excellence Principles
 
+
+![image](https://user-images.githubusercontent.com/106639884/201036146-ef04b9e3-4511-40a0-94b6-b031251fd832.png)
+
+
 There are five design principles for operational excellence in the cloud:
 
 - **Perform operations as code**: In the cloud, you can apply the same engineering discipline that you use for application code to your entire environment. You can define your entire workload (applications, infrastructure) as code and update it with code. You can implement your operations procedures as code and automate their execution by triggering them in response to events. By performing operations as code, you limit human error and enable consistent responses to events.
