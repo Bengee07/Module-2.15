@@ -61,6 +61,10 @@ There are four best practice areas for operational excellence in the cloud:
 - Operate
 - Evolve
 
+
+![image](https://user-images.githubusercontent.com/106639884/201036249-7ebedb06-6cde-407a-b448-6b96c3579f1c.png)
+
+
 Your organization’s leadership defines business objectives. Your organization must understand requirements and priorities and use these to organize and conduct work to support the achievement of business outcomes. Your workload must emit the information necessary to support it. Implementing services to enable integration, deployment, and delivery of your workload will enable an increased flow of beneficial changes into production by automating repetitive processes.
 
 There may be risks inherent in the operation of your workload. You must understand those risks and make an informed decision to enter production. Your teams must be able to support your workload. Business and operational metrics derived from desired business outcomes will enable you to understand the health of your workload, your operations activities, and respond to incidents. Your priorities will change as your business needs and business environment changes. Use these as a feedback loop to continually drive improvement for your organization and the operation of your workload.
